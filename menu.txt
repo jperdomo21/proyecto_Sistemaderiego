@@ -1,0 +1,9 @@
+Hola te saluda KrlosBot
+Selecciona la accion a ejecutar:
+Humedad = Medir Humedad Actual
+Historial =Consultar Historial de Acceso
+Riego = Activar el riego instantaneo (5 segundos) 
+Auto_on = Activar Modo Automatico (riego segun lectura de humedad)
+Auto_off = Desactivar Modo Automatico
+Recoleccion= Usuarios logueados durante el dia.
+Salir 
